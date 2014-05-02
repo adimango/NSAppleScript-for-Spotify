@@ -1,4 +1,4 @@
-spotifyNSAppleScript
+spotifyNSAppleScripts
 ====================
 
 List of NSAppleScripts commands supported by Spotify (used in spotifyMate OSX).
