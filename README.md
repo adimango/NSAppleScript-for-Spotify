@@ -10,7 +10,7 @@ I have built this reference using the following file:
 
 //get CurrentTrackArtist
 
-  NSAppleScript *appleScript = [[NSAppleScript alloc] initWithSource:appleScriptText];
+  NSAppleScript *appleScript = [[NSAppleScript alloc] initWithSource:kCurrentTrackArtist];
   NSString *trackArtist =  [[appleScript executeAndReturnError:nil]stringValue];
 
 ```
